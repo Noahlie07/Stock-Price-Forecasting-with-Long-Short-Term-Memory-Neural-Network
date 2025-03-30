@@ -9,5 +9,5 @@ This project implements a Long Short-Term Memory (LSTM) neural network in PyTorc
 
 ### Accessing the Project
 ---
-Download LSTMPredictionModel.py to run program locally.
-Download AMZN.csv to run model against Amazon stock.
+Download **LSTMPredictionModel.py** to run program locally.  
+Download **AMZN.csv** to run model against Amazon stock.
