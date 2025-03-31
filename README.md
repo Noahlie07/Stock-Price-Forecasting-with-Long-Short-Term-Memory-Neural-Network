@@ -9,5 +9,14 @@ This project implements a Long Short-Term Memory (LSTM) neural network in PyTorc
 
 ### Accessing the Project
 ---
-Download **LSTMPredictionModel.py** to run program locally.  
-Download **AMZN.csv** to run model against Amazon stock.
+Look through Stock_Forecasting_Model_with_LSTM.ipynb for a walkthrough of my code and thought process.
+Download **LSTMPredictionModel.py** to run program locally. I strongly recommend this if you would like to try experiment with tuning certain parameters yourself, or to test the model on different stock datasets.  
+Download **AMZN.csv** to run model against Amazon stock.  
+
+### Skills Demonstrated
+---
+Skills Used: Data Preprocessing, Pytorch for Neural Network architecture, Matplotlib to generate visualization  
+
+### Dataset Used
+---
+Historical Data on Amazon Closing Price was used, starting from when the company first publicly listed its stock (around 30 years ago).
