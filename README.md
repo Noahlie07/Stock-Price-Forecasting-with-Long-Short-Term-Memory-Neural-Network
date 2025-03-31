@@ -9,7 +9,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network in PyTorc
 
 ### Accessing the Project
 ---
-Look through Stock_Forecasting_Model_with_LSTM.ipynb for a walkthrough of my code and thought process.
+Look through **Stock_Forecasting_Model_with_LSTM.ipynb** for a walkthrough of my code and thought process.
 Download **LSTMPredictionModel.py** to run program locally. I strongly recommend this if you would like to try experiment with tuning certain parameters yourself, or to test the model on different stock datasets.  
 Download **AMZN.csv** to run model against Amazon stock.  
 
