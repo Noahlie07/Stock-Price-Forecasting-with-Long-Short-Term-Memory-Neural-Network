@@ -1,5 +1,5 @@
 # Stock-Price-Forecasting-with-Long-Short-Term-Memory-Neural-Network
-Overview
+### Overview  
 This project implements a Long Short-Term Memory (LSTM) neural network in PyTorch to forecast future stock prices of Amazon (AMZN). The model learns historical trends and predicts closing prices, demonstrating the application of deep learning in financial time-series forecasting.
 
 **Features of the Project:**
